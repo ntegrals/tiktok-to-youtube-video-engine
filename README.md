@@ -37,8 +37,8 @@ Example video:
 
 Both channels:
 
-- https://www.youtube.com/@diagonalley6185 (1,258,487 views - 1.6k subscribers)
-- https://www.youtube.com/@hogwartsletter1875 (352,526 views - 664 subscribers)
+- https://www.youtube.com/@diagonalley6185 (1,258,487 views - 1.6k subscribers - 11 videos)
+- https://www.youtube.com/@hogwartsletter1875 (352,526 views - 664 subscribers - 11 videos)
 
 The topic selection (Harry Potter in this case) is arbitrary. The engine can be used for any topic and niche.
 
