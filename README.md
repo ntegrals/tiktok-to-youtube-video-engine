@@ -52,7 +52,7 @@ I haven't updated the code in a few years, so the code quality is not the best. 
 
 ## Why am I not using it anymore?
 
-It was just a fun project to learn about the Youtube algorithm and how to create viral videos. I've learned a lot and it was a great experience, but the it doesn't make sense to continue with it, as it's not monetizable. (At least not in it's current form)
+It was just a fun project to learn about the Youtube algorithm and how to create viral videos. I've learned a lot and it was a great experience, but it doesn't make sense to continue with it, as it's not monetizable. (At least not in it's current form)
 
 ## Contact
 
